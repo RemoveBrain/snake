@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6878a8b2fde96464c9c964ee91241f09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - pcController: {instanceID: 0}
+  - obj: {instanceID: 0}
+  - obj2: {instanceID: 0}
+  - obj3: {instanceID: 0}
+  - gameoverPanel: {instanceID: 0}
+  - crash: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
